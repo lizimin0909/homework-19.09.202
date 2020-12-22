@@ -37,7 +37,6 @@ int main()
 			j++;
 		}
 	}
-	int h = m1 * n1, f = 1;
 
 	for (int i = 0; i < m1; ++i)
 	{
