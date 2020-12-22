@@ -2,7 +2,6 @@
 //
 
 #include <iostream>
-#include <iomanip>
 int main()
 {
 	std::cout << "Input m n:";
